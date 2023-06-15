@@ -1,1 +1,1 @@
-# golang_tutorial
+https://go.dev/doc/tutorial/
